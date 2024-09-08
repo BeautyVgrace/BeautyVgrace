@@ -1189,9 +1189,25 @@ p.comment-form-email, p.comment-form-author, p.comment-form-url {
 			 width:250px;
 			 max-width:100%;
 			 height:250px;
-			 margin:0px auto;
+			 margin:10px auto;
 			 padding: 30px 30px;
 	}
+  .pricingbadge h4 {
+    margin-top: 25px;
+}
+.contactaddress {
+  padding: 120px 15px;
+}
+.contactform {
+  padding: 30px 75px;
+}
+.testimonial-widget {
+  position: relative;
+  text-align: center;
+  overflow: hidden;
+  padding: 20% 20%;
+  color: rgba(255, 255, 255, 0.7);
+}
 }
 
 
