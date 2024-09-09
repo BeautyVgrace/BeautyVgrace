@@ -395,6 +395,19 @@ a.fullpricelist {
     border-radius: 30px;
 }
 
+.package{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  flex-direction: column;
+}
+
+.size{
+  font-size: 45px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
 
 
 @-moz-keyframes fadein {
