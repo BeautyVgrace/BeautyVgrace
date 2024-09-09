@@ -1346,3 +1346,10 @@ h2{
 }
 
 
+.prc{
+  display: flex;
+  justify-content: center;
+}
+.mt{
+  margin-top: 30px;
+}
