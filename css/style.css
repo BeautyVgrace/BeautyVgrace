@@ -1339,10 +1339,10 @@ h2{
   .slick-next {
     right: 10px;
   }
-  /* .slick-slide img {
-    height: 120px;
-  
-} */
+  .prc{
+    display: flex;
+    justify-content: center;
+  }
 }
 
 
